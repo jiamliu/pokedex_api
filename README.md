@@ -1,5 +1,7 @@
 # Overview
 
+![logo](https://github.com/jiamliu/pokedex_photo_retriever/assets/139939637/b73914d1-d6cc-460c-ab4d-da92f6b76368)
+
 This PokeDex Photo Retriever is designed base on PokeAPI, a free online API that displays Pokemon information. The purpose of this application is to retrieve Pokemon photo by entering its names.
 
 # Features
@@ -24,8 +26,7 @@ If the name was spelled wrong, an error message will display on top of the brows
 
 Please see gif below
 
-![logo](https://github.com/jiamliu/pokedex_photo_retriever/assets/139939637/b73914d1-d6cc-460c-ab4d-da92f6b76368)
-
+![tutorial](https://github.com/jiamliu/pokedex_photo_retriever/assets/139939637/f0c8b4f8-9619-4dd0-99d6-5d641cc42eb3)
 
 # Resource
 PokeAPI: https://pokeapi.co/
