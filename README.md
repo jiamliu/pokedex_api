@@ -30,3 +30,4 @@ Please see gif below
 
 # Resource
 PokeAPI: https://pokeapi.co/
+Pokemon photos: all copyrights belongs to Nintendo
