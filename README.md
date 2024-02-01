@@ -22,5 +22,10 @@ If the name was spelled wrong, an error message will display on top of the brows
 
 # Tutorial
 
+Please see gif below
+
+![logo](https://github.com/jiamliu/pokedex_photo_retriever/assets/139939637/b73914d1-d6cc-460c-ab4d-da92f6b76368)
+
+
 # Resource
 PokeAPI: https://pokeapi.co/
